@@ -1,7 +1,17 @@
-## Hi there 👋
+### boas vindas oa meu perfil🎧
 
-<!--
-**estudantealuraC/estudantealurac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+o meu nome é **Cassio**
+
+Estou desenvolvendo scratch e java script.
+
+![neymar](https://media1.tenor.com/m/ehEfbcr58RQAAAAd/neymar-sheozinho.gif)
+
+meu **curriculo profissinional**
+
+https://drive.google.com/drive/home
+
+
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +23,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
